@@ -1,0 +1,26 @@
+[class*="example"] {
+  height: 55vh; }
+
+.example-1 {
+  background: url("http://i65.tinypic.com/2yjvwjn.jpg");
+  background-size: cover; }
+
+.example-2 {
+  background: url("http://i64.tinypic.com/jfzxqx.jpg");
+  background-size: cover; }
+
+.example-3 {
+  background: url("http://i68.tinypic.com/33tnvgm.jpg");
+  background-size: cover; }
+
+.example-4 {
+  background: url("http://i67.tinypic.com/k4tc9g.jpg");
+  background-size: cover; }
+
+.text-container .container {
+  display: flex;
+  padding: 10px; }
+  .text-container .container p {
+    text-indent: 40px; }
+
+/*# sourceMappingURL=style.css.map */
